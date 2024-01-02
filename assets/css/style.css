@@ -1,0 +1,11 @@
+.list button{
+    background-color: dodgerblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: square;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+}
